@@ -1,0 +1,146 @@
+* {
+    font-family: Poppins, sans-serif;
+    color: white;
+}
+
+
+
+body {
+background-color: black;
+background-size: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+border: 1px solid black;
+margin: 0 10% 0 10%;
+}
+
+
+.contenedor {
+    
+    display: block;
+    width: 100%;
+    background-color: black;
+}
+
+
+.header {
+width: 20%;
+margin-left: 39%;
+
+
+}
+
+
+.caja {
+    display: flex;
+}
+
+
+
+.p1 {
+    color: white;
+    font-size: 45px;
+    text-align: center;
+
+
+   
+}
+
+.caja_personajes {
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 53px;
+    padding-top: 5px;
+}
+
+
+.foto_mario {
+    width: 100%;    
+    margin-bottom: 20px;
+    
+}
+
+
+
+.box_1 {
+    color: white;
+    width: 45%;
+    float: right;
+    color: white;
+    font-size: 45px;
+    margin-left: 33px;
+    
+}
+
+
+h4 {
+    font-size: 25px;
+    margin-left: 63px;
+}
+
+.estudio {
+    color: white;
+    padding-top: 3px;
+    text-align: center;
+    margin-left: 110px;
+}
+
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+
+.sorteo {
+    text-align: center;
+    font-size: 28px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+.form {
+    text-align: center;
+    font-size: 15px;
+}
+
+.boton {
+    color: black;
+    background-color: red;
+    font-size: 17px;
+    border: red;
+    cursor: pointer;
+    border-radius: 12px;
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+input {
+    color: black;
+}
+
+.footer {
+width: 100%;  
+background-color: darkred;
+}
+
+.pie {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 10px;
+
+}
+
+/* FORMULARIO*/
+
+.ganador {
+    text-align: center;
+}
